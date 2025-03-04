@@ -1,0 +1,3 @@
+[submodule "sensor-visionary"]
+	path = sensor-visionary
+	url = https://github.com/vvaishnavii0609/sensor-visionary.git
